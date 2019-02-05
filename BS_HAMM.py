@@ -31,7 +31,9 @@ with open('rosalind_hamm.txt', 'r') as f:
     t=f.readline().strip()
     print(hamm(s,t))
 
-# Solution 2
+# 
+
+
 
 #########################################################
 # you may add your solutions below
